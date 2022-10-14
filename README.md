@@ -1,1 +1,1 @@
-# git-bot
+# daily-practise
